@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Gilbert José Amores Cambronero">
+  <meta name="description" content="Hoja de Vida Digital">
+  <title>Hoja de Vida Digital</title>
+</head>
+<header>
+  <svg>
+    <image xlink:href="imagenes/logo.svg" width="150px" height="150px"></image>
+  </svg>
+  <h1>Hoja de Vida</h1>
+  <h2>Gilbert José Amores Cambronero</h2>
+  <h3>San Ramón, Alajuela, 1 de abril de 1992</h3>
+  <ul>
+    <li><a href="index.html">Inicio</a></li>
+    <li><a href="educacion.html">Educación</a></li>
+    <li><a href="experiencia.html">Experiencia</a></li>
+  </ul>
+</header>
+<body>
+  <h2>Educación</h2>
+  <table border="1" border-color="black">
+    <thead>
+      <tr>
+        <th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>¿Culminó?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1998</td>
+        <td>Escuela Julián Volio Llorente</td>
+        <td>Volio, San Ramón, Alajuela</td>
+        <td>Si</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td>Liceo Nuestra Señora de los Ángeles</td>
+        <td>San Juan, San Ramón, Alajuela</td>
+        <td>Si</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>Universidad Técnica Nacional</td>
+        <td>Villa Bonita, Alajuela, Alajuela</td>
+        <td>Si</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3>Agregar Estudios</h3>
+  <form autocomplete="on" name="formEstudios">
+    <p>
+      <b><label for="anno">Año:</label></b>
+      <select name="anno" required>
+        <option>2018</option>
+        <option>2017</option>
+        <option>2016</option>
+        <option>2015</option>
+        <option>2014</option>
+      </select>
+    </p>
+    <p>
+      <b><label for="institucion">Institución:</label></b><input type="text" name="institucion" required>
+    </p>
+    <p>
+      <b><label for="lugar">Lugar:</label></b><input type="text" name="lugar" required>
+    </p>
+    <p>
+      <b><label for="culmino">¿Culminó?</label></b><input type="radio" name="culmino" value="Si" required>Si<input type="radio" name="culmino" value="No">No
+    </p>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+<footer>
+  <p>@Derechos Reservados</p>
+  <ul>
+    <li><b>Email:</b> gilberth751@hotmail.com</li>
+    <li><b>Teléfono:</b> 86102416</li>
+    <li><b>Dirección:</b> 500mts norte de la plaza de Volio, San Ramón, Alajuela.</li>
+  </ul>
+</footer>
+</html>

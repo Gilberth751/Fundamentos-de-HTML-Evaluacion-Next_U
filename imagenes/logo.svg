@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="162.49mm" height="165.77mm" version="1.1" viewBox="0 0 162.49 165.77" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <meshgradient id="meshgradient5982" x="34.017857" y="70.214287" gradientUnits="userSpaceOnUse">
+   <meshrow>
+    <meshpatch>
+     <stop style="stop-color:#fff" path="c 47.373,0  94.746,0  142.119,0"/>
+     <stop path="c 0,34.2698  0,68.5397  0,102.81"/>
+     <stop style="stop-color:#fff" path="c -47.373,0  -94.746,0  -142.119,0"/>
+     <stop path="c 0,-34.2698  0,-68.5397  0,-102.81"/>
+    </meshpatch>
+   </meshrow>
+  </meshgradient>
+  <filter id="filter6700" x="-.01034" y="-.014294" width="1.0207" height="1.0286" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="0.61232141"/>
+  </filter>
+  <linearGradient id="linearGradient6708" x1="32.548" x2="177.61" y1="121.62" y2="121.62" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#9e6379;stop-opacity:.12155" offset="0"/>
+  </linearGradient>
+  <meshgradient id="meshgradient6804" x="54.313065" y="65.563065" gradientUnits="userSpaceOnUse">
+   <meshrow>
+    <meshpatch>
+     <stop style="stop-color:#fff" path="c 37.8746,0  75.7492,0  113.624,0"/>
+     <stop path="c 0,38.3784  0,76.7568  0,115.136"/>
+     <stop style="stop-color:#fff" path="c -37.8746,0  -75.7492,0  -113.624,0"/>
+     <stop path="c 0,-38.3784  0,-76.7568  0,-115.136"/>
+    </meshpatch>
+   </meshrow>
+  </meshgradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-32.548 -14.928)">
+  <rect x="34.018" y="70.214" width="142.12" height="102.81" style="fill:url(#meshgradient5982);filter:url(#filter6700);opacity:.22;stroke-width:.265;stroke:url(#linearGradient6708)"/>
+  <text transform="scale(.88009 1.1362)" x="67.345978" y="131.33659" style="fill:#000000;font-family:'Tw Cen MT Condensed Extra Bold';font-feature-settings:normal;font-size:75.404px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;letter-spacing:0px;line-height:1.25;stroke-width:1.885;word-spacing:0px" xml:space="preserve"><tspan x="67.345978" y="131.33659" style="font-family:'Tw Cen MT Condensed Extra Bold';font-feature-settings:normal;font-size:75.404px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;stroke-width:1.885">GAC</tspan></text>
+  <g style="opacity:.22;stroke-width:1.0016">
+   <path d="m34.018 124.15v48.879l39.058 8.9191v-42.261z" points="34.017857,173.02381 73.075903,181.9429 73.075903,139.68201 34.017857,124.14527 " style="fill-rule:evenodd;fill:#353564"/>
+   <path d="m73.076 139.68 121.96-70.929v72.472l-121.96 40.718z" points="195.03571,68.753127 195.03571,141.22511 73.075903,181.9429 73.075903,139.68201 " style="fill-rule:evenodd;fill:#e9e9ff"/>
+   <path d="m34.018 124.15 122.47-106.84 38.544 51.45-121.96 70.929z" points="156.49159,17.303614 195.03571,68.753127 73.075903,139.68201 34.017857,124.14527 " style="fill-rule:evenodd;fill:#4d4d9f"/>
+   <path d="m34.018 173.02 122.47-61.334 38.544 29.535-121.96 40.718z" points="156.49159,111.68975 195.03571,141.22511 73.075903,181.9429 34.017857,173.02381 " style="fill-rule:evenodd;fill:#afafde"/>
+   <path d="m156.49 17.304v94.386l38.544 29.535v-72.472z" points="156.49159,111.68975 195.03571,141.22511 195.03571,68.753127 156.49159,17.303614 " style="fill-rule:evenodd;fill:#d7d7ff"/>
+   <path d="m34.018 124.15 122.47-106.84v94.386l-122.47 61.334z" points="156.49159,17.303614 156.49159,111.68975 34.017857,173.02381 34.017857,124.14527 " style="fill-rule:evenodd;fill:#8686bf"/>
+  </g>
+  <ellipse cx="111.12" cy="123.13" rx="56.696" ry="57.452" style="fill:#05a080;opacity:.213;stroke-width:.231;stroke:url(#meshgradient6804)"/>
+ </g>
+</svg>
